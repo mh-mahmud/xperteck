@@ -1,256 +1,6 @@
+<?php require('master.php'); ?>
 
-<!DOCTYPE html>
-<html lang="zxx">
-<head>
-	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="Awaiken">
-	<!-- Page Title -->
-    <title>Proshield - Cyber Security Services HTML Template</title>
-	<!-- Favicon Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
-	<!-- Google Fonts Css-->
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
-	<!-- Bootstrap Css -->
-	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<!-- SlickNav Css -->
-	<link href="css/slicknav.min.css" rel="stylesheet">
-	<!-- Swiper Css -->
-	<link rel="stylesheet" href="css/swiper-bundle.min.css">
-	<!-- Font Awesome Icon Css-->
-	<link href="css/all.min.css" rel="stylesheet" media="screen">
-	<!-- Animated Css -->
-	<link href="css/animate.css" rel="stylesheet">
-    <!-- Magnific Popup Core Css File -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<!-- Mouse Cursor Css File -->
-	<link rel="stylesheet" href="css/mousecursor.css">
-	<!-- Main Custom Css -->
-	<link href="css/custom.css" rel="stylesheet" media="screen">
-</head>
-<body>
-
-    <!-- Preloader Start -->
-	<div class="preloader">
-		<div class="loading-container">
-			<div class="loading"></div>
-			<div id="loading-icon"><img src="images/loader.svg" alt=""></div>
-		</div>
-	</div>
-	<!-- Preloader End -->
-
-    <!-- Topbar Section Start -->
-    <div class="topbar">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-7">
-                    <div class="topbar-info-text">
-                        <p>We are always ready to protect your data <a href="contact.html">Contact now</a></p>
-                    </div>
-                </div>
-                
-                <div class="col-md-5">
-                    <!-- Topbar Social Links Start -->
-                    <div class="topbar-links">
-                        <!-- Topbar Contact Information Start -->
-                        <div class="topbar-contact-info">
-                            <ul>
-                                <li><a href="#">Help</a></li>
-                                <li><a href="#">Support</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                            </ul>
-                        </div>
-                        <!-- Topbar Contact Information End -->
-
-                        <!-- Topbar Social Links Start -->
-                        <div class="topbar-social-links">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Topbar Social Links End -->
-                    </div>
-                    <!-- Topbar Social Links End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar Section End -->
-
-    <!-- Header Start -->
-	<header class="main-header">
-		<div class="header-sticky">
-			<nav class="navbar navbar-expand-lg">
-				<div class="container">
-					<!-- Logo Start -->
-					<a class="navbar-brand" href="./">
-						<img src="images/logo.svg" alt="Logo">
-					</a>
-					<!-- Logo End -->
-
-					<!-- Main Menu Start -->
-					<div class="collapse navbar-collapse main-menu">
-                        <div class="nav-menu-wrapper">
-                            <ul class="navbar-nav mr-auto" id="menu">
-                                <li class="nav-item submenu"><a class="nav-link" href="./">Home</a>
-                                    <ul>
-                                        <li class="nav-item"><a class="nav-link" href="index.html">Home - Image</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="index-video.html">Home - Video</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="index-slider.html">Home - Slider</a></li>
-                                    </ul>
-                                </li>                                
-                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a>
-                                <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                                <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
-                                    <ul>                                        
-                                        <li class="nav-item"><a class="nav-link" href="service-single.html">Service Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="blog-single.html">Blog Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="project-single.html">Project Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="team.html">Our Team</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="team-single.html">Team Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="testimonials.html">Testimonials</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="image-gallery.html">Image Gallery</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="video-gallery.html">Video Gallery</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="faqs.html">FAQs</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>                         
-                            </ul>
-                        </div>
-
-                        <!-- Header Btn Start -->
-                        <div class="header-btn">
-                            <a href="contact.html" class="btn-default">get started</a>
-                        </div>
-                        <!-- Header Btn End -->
-					</div>
-					<!-- Main Menu End -->
-					<div class="navbar-toggle"></div>
-				</div>
-			</nav>
-			<div class="responsive-menu"></div>
-		</div>
-	</header>
-	<!-- Header End -->
-
-    <!-- Hero Section Start -->
-    <div class="hero hero-slider-layout">
-        <div class="swiper">
-            <div class="swiper-wrapper">
-                <!-- Hero Slide Start -->
-                <div class="swiper-slide">
-                    <div class="hero-slide">
-                        <!-- Slider Image Start -->
-                        <div class="hero-slider-image">
-                            <img src="images/hero-bg.jpg" alt="">
-                        </div>
-                        <!-- Slider Image End -->
-
-                        <div class="container">
-                            <div class="row align-items-center">
-                                <div class="col-lg-7">
-                                    <!-- Hero Content Start -->
-                                    <div class="hero-content">
-                                        <!-- Section Title Start -->
-                                        <div class="section-title dark-section">
-                                            <h3 class="wow fadeInUp">welcome cyber security</h3>
-                                            <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Secure your world, effortlessly today!</h1>
-                                            <p class="wow fadeInUp" data-wow-delay="0.4s">Protect your digital world with seamless, cutting-edge cybersecurity solutions designed to safeguard your data, systems, and peace of mind.</p>
-                                        </div>
-                                        <!-- Section Title End -->
-                
-                                        <!-- Hero Content Body Start -->
-                                        <div class="hero-content-body wow fadeInUp" data-wow-delay="0.6s">
-                                            <!-- Hero Button Start -->
-                                            <div class="hero-btn">
-                                                <a href="contact.html" class="btn-default btn-highlighted">learn more</a>
-                                            </div>
-                                            <!-- Hero Button End -->
-                
-                                            <!-- Video Play Button Start -->
-                                            <div class="video-play-button">
-                                                <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
-                                                    <i class="fa-solid fa-play"></i>
-                                                </a>
-                                                <h3>Play video</h3>
-                                            </div>
-                                            <!-- Video Play Button End -->
-                                        </div>
-                                        <!-- Hero Content Body End -->
-                                    </div>
-                                    <!-- Hero Content End -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Hero Slide End -->
-
-                <!-- Hero Slide Start -->
-                <div class="swiper-slide">
-                    <div class="hero-slide">
-                        <!-- Slider Image Start -->
-                        <div class="hero-slider-image">
-                            <img src="images/hero-bg-2.jpg" alt="">
-                        </div>
-                        <!-- Slider Image End -->
-
-                        <div class="container">
-                            <div class="row align-items-center">
-                                <div class="col-lg-7">
-                                    <!-- Hero Content Start -->
-                                    <div class="hero-content">
-                                        <!-- Section Title Start -->
-                                        <div class="section-title dark-section">
-                                            <h3 class="wow fadeInUp">welcome cyber security</h3>
-                                            <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Secure your world, effortlessly today!</h1>
-                                            <p class="wow fadeInUp" data-wow-delay="0.4s">Protect your digital world with seamless, cutting-edge cybersecurity solutions designed to safeguard your data, systems, and peace of mind.</p>
-                                        </div>
-                                        <!-- Section Title End -->
-                
-                                        <!-- Hero Content Body Start -->
-                                        <div class="hero-content-body wow fadeInUp" data-wow-delay="0.6s">
-                                            <!-- Hero Button Start -->
-                                            <div class="hero-btn">
-                                                <a href="contact.html" class="btn-default btn-highlighted">learn more</a>
-                                            </div>
-                                            <!-- Hero Button End -->
-                
-                                            <!-- Video Play Button Start -->
-                                            <div class="video-play-button">
-                                                <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
-                                                    <i class="fa-solid fa-play"></i>
-                                                </a>
-                                                <h3>Play video</h3>
-                                            </div>
-                                            <!-- Video Play Button End -->
-                                        </div>
-                                        <!-- Hero Content Body End -->
-                                    </div>
-                                    <!-- Hero Content End -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Hero Slide End -->
-            </div>
-            <div class="hero-pagination"></div>
-        </div>
-    </div>
-    <!-- Hero Section End -->
+<?php require('slider.php'); ?>
 
     <!-- About Us Section Start -->
     <div class="about-us">
@@ -284,11 +34,11 @@
                         <!-- About Image Box Start -->
 
                         <!-- Get Free Security Circle Start -->
-                        <div class="get-free-security-circle">
-                            <a href="contact.html">
+                        <!-- <div class="get-free-security-circle">
+                            <a href="contact.php">
                                 <img src="images/get-free-security-circle.svg" alt="">
                             </a>
-                        </div>
+                        </div> -->
                         <!-- Get Free Security Circle End -->
                     </div>
                     <!-- About Us Image End -->
@@ -300,28 +50,24 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">about us</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Your trusted partner in our <span>cyber security solutions</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s"> We provide reliable, cutting-edge cybersecurity solutions to protect your digital assets, ensuring safety and peace of mind.</p>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"> <span>Why Choose Xperteck</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">At Xperteck, we combine technical expertise with strategic insight to deliver solutions that matter. We provide reliable, cutting-edge cybersecurity solutions to protect your digital assets, ensuring safety and peace of mind. We focus on:</p>
                         </div>
                         <!-- Section Title End -->
 
                         <!-- About Us Body Start -->
-                        <div class="about-us-body wow fadeInUp" data-wow-delay="0.6s">
-                            <!-- About Us Body Image Start -->
+                        <!-- <div class="about-us-body wow fadeInUp" data-wow-delay="0.6s">
                             <div class="about-us-body-img">
                                 <figure class="image-anime">
                                     <img src="images/about-body-img.png" alt="">
                                 </figure>
                             </div>
-                            <!-- About Us Body Image End -->
-                            
-                            <!-- About Us Body Content Start -->
+
                             <div class="about-us-body-content">
                                 <h3>24/7 aecurity assistance</h3>
                                 <p>Real-time support for all cybersecurity concerns, including breach response, threat detection, guidance.</p>
                             </div>
-                            <!-- About Us Body Content End -->
-                        </div>
+                        </div> -->
                         <!-- About Us Body End -->
 
                         <!-- About Us Footer Start -->
@@ -329,9 +75,9 @@
                             <!-- About Footer List Start -->
                             <div class="about-footer-list">
                                 <ul>
-                                    <li>Threat Detection and Monitoring</li>
-                                    <li>Access Control Management</li>
-                                    <li>Security Awareness Training</li>
+                                    <li>✔ Tailored solutions aligned with your business goals</li>
+                                    <li>✔ Cutting-edge technologies with secure architectures</li>
+                                    <li>✔ Dedicated support to ensure seamless experiences</li>
                                 </ul>
                             </div>
                             <!-- About Footer List End -->
@@ -352,7 +98,7 @@
                                 
                                 <!-- About Footer Button Start -->
                                 <div class="about-footer-btn">
-                                    <a href="contact.html" class="btn-default">contact us</a>
+                                    <a href="about.html" class="btn-default">more about</a>
                                 </div>
                                 <!-- About Footer Button End -->
                             </div>
@@ -1228,7 +974,7 @@
                                 
                                 <!-- Testimonial Contact Button Start -->
                                 <div class="testimonial-contact-btn">
-                                    <a href="contact.html" class="btn-default">contact us</a>
+                                    <a href="contact.php" class="btn-default">contact us</a>
                                 </div>
                                 <!-- Testimonial Contact Button End -->
                             </div>
@@ -1663,154 +1409,6 @@
     </div>
     <!-- our Blog Section End -->
 
-    <!-- Main Footer Section Start -->
-    <footer class="main-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Footer Header Start -->
-                    <div class="footer-header">
-                        <!-- Footer Logo Start -->
-                        <div class="footer-logo">
-                            <img src="images/footer-logo.svg" alt="">
-                        </div>
-                        <!-- Footer Logo End -->
-                        
-                        <!-- Footer Social Links Start -->
-                        <div class="footer-social-links">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Footer Social Links End -->
-                    </div>
-                    <!-- Footer Header End -->
-                </div>
-
-                <div class="col-lg-4">
-                    <!-- Footer Newsletter Form Start -->
-                    <div class="footer-links footer-newsletter-form">
-                        <h3>Subscribe our newsletter:</h3>
-                        <p>Protecting networks, systems data from evolving. </p>
-                        <form id="newsletterForm" action="#" method="POST">
-                            <div class="form-group">
-                                <input type="email" name="email" class="form-control" id="mail" placeholder="Enter Your Email" required="">
-                                <button type="submit" class="newsletter-btn"><i class="fa-regular fa-paper-plane"></i></button>
-                            </div>
-                        </form>
-                    </div>
-                    <!-- Footer Newsletter Form End -->
-                </div>
-
-                <div class="col-lg-2 col-md-3 col-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links footer-quick-links">
-                        <h3>Quick link</h3>
-                        <ul>
-                            <li><a href="index.html">home</a></li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="services.html">services</a></li>
-                            <li><a href="blog-single.html">blog</a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-                
-                <div class="col-lg-2 col-md-3 col-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Services</h3>
-                        <ul>
-                            <li><a href="service-single.html">Threat detection</a></li>
-                            <li><a href="service-single.html">Endpoint security</a></li>
-                            <li><a href="service-single.html">Network defense</a></li>
-                            <li><a href="service-single.html">Data encryption</a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-                
-                <div class="col-lg-2 col-md-3 col-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Support</h3>
-                        <ul>
-                            <li><a href="#">Help</a></li>
-                            <li><a href="#">Term's & condition </a></li>
-                            <li><a href="#">Privacy policy</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-                
-                <div class="col-lg-2 col-md-3 col-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Contact</h3>
-                        <ul>
-                            <li><a href="tel:+123456789">+123 456 789</a></li>
-                            <li><a href="mailto:info@domain.com">info@domain.com</a></li>
-                            <li>123 High Street LN1 1AB United Kingdom</li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer Copyright Start -->
-        <div class="footer-copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <!-- Footer Copyright Text Start -->
-                        <div class="footer-copyright-text">
-                            <p>Copyright © 2025 All Rights Reserved.</p>
-                        </div>
-                        <!-- Footer Copyright Text End -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Copyright End -->
-    </footer>
-    <!-- Main Footer Section End -->
-    
-    <!-- Jquery Library File -->
-    <script src="js/jquery-3.7.1.min.js"></script>
-    <!-- Bootstrap js file -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Validator js file -->
-    <script src="js/validator.min.js"></script>
-    <!-- SlickNav js file -->
-    <script src="js/jquery.slicknav.js"></script>
-    <!-- Swiper js file -->
-    <script src="js/swiper-bundle.min.js"></script>
-    <!-- Counter js file -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <!-- Magnific js file -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <!-- SmoothScroll -->
-    <script src="js/SmoothScroll.js"></script>
-    <!-- Parallax js -->
-    <script src="js/parallaxie.js"></script>
-    <!-- MagicCursor js file -->
-    <script src="js/gsap.min.js"></script>
-    <script src="js/magiccursor.js"></script>
-    <!-- Text Effect js file -->
-    <script src="js/SplitText.js"></script>
-    <script src="js/ScrollTrigger.min.js"></script>
-    <!-- YTPlayer js File -->
-    <script src="js/jquery.mb.YTPlayer.min.js"></script>
-    <!-- Wow js file -->
-    <script src="js/wow.min.js"></script>
-    <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
-	<script src="https://demo.awaikenthemes.com/assets/js/theme-panel.js"></script>
+    <?php require_once("footer.php"); ?>
 </body>
 </html>
