@@ -121,7 +121,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">our services</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Comprehensive cybersecurity <span>services for protection</span></h2>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Comprehensive web services  <span>for your business</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -136,7 +136,7 @@
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="service-single.html">Threat Detection and Prevention</a></h3>
+                                <h3><a href="service-single.html">Chat Bot Service</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="service-single.html">
@@ -159,7 +159,7 @@
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="service-single.html">Endpoint Security Solutions</a></h3>
+                                <h3><a href="service-single.html">Voice Bot Service</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="service-single.html">
@@ -182,7 +182,7 @@
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="service-single.html">Network Defense and Firewalls</a></h3>
+                                <h3><a href="service-single.html">eCommerce Solutions</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="service-single.html">
@@ -205,7 +205,7 @@
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="service-single.html">Data Encryption and Privacy</a></h3>
+                                <h3><a href="service-single.html">POS</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="service-single.html">
@@ -228,7 +228,7 @@
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="service-single.html">Cloud Security and Compliance</a></h3>
+                                <h3><a href="service-single.html">CRM</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="service-single.html">
@@ -251,7 +251,76 @@
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="service-single.html">Incident Response and Management</a></h3>
+                                <h3><a href="service-single.html">Ticket Management</a></h3>
+                            </div>
+                            <div class="service-btn">
+                                <a href="service-single.html">
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="service-content">
+                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                        </div>
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="1s">
+                        <div class="icon-box">
+                            <img src="images/icon-service-6.svg" alt="">
+                        </div>
+                        <div class="service-title-box">
+                            <div class="service-title">
+                                <h3><a href="service-single.html">Website Development</a></h3>
+                            </div>
+                            <div class="service-btn">
+                                <a href="service-single.html">
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="service-content">
+                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                        </div>
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="1s">
+                        <div class="icon-box">
+                            <img src="images/icon-service-6.svg" alt="">
+                        </div>
+                        <div class="service-title-box">
+                            <div class="service-title">
+                                <h3><a href="service-single.html">Sales Inventory</a></h3>
+                            </div>
+                            <div class="service-btn">
+                                <a href="service-single.html">
+                                    <i class="fa-solid fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="service-content">
+                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                        </div>
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="1s">
+                        <div class="icon-box">
+                            <img src="images/icon-service-6.svg" alt="">
+                        </div>
+                        <div class="service-title-box">
+                            <div class="service-title">
+                                <h3><a href="service-single.html">AI Prompt Service</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="service-single.html">
@@ -351,7 +420,8 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">our feature</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Comprehensive protection <span>simplified security</span></h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">We deliver powerful, reliable <span>and future-ready technology</span></h2>
+
                         </div>
                         <!-- Section Title End -->
 
@@ -359,39 +429,64 @@
                         <div class="ferature-list">
                             <!-- Feature List Item Start -->
                             <div class="ferature-list-item wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="icon-box">
+                                <!-- <div class="icon-box">
                                     <img src="images/icon-ferature-1.svg" alt="">
-                                </div>
+                                </div> -->
                                 <div class="ferature-list-content">
-                                    <h3>real-time threat detection</h3>
-                                    <p>Real-Time Threat Detection provides instant monitoring & response to cyber threats, ensuring your devices and data remain secure.</p>
+                                    <h3>🚀 Scalable Architecture</h3>
+                                    <p>Built to grow with your business without performance issues.</p>
                                 </div>
                             </div>
                             <!-- Feature List Item End -->
                             
                             <!-- Feature List Item Start -->
                             <div class="ferature-list-item wow fadeInUp" data-wow-delay="0.6s">
-                                <div class="icon-box">
+                                <!-- <div class="icon-box">
                                     <img src="images/icon-ferature-2.svg" alt="">
-                                </div>
+                                </div> -->
                                 <div class="ferature-list-content">
-                                    <h3>malware and virus prevention</h3>
-                                    <p>malware and virus prevention provides instant monitoring & response to cyber threats, ensuring your devices and data remain secure.</p>
+                                    <h3>🔒 Enterprise-Grade Security</h3>
+                                    <p>Advanced security measures to protect your data and systems.</p>
                                 </div>
                             </div>
                             <!-- Feature List Item End -->
                             
                             <!-- Feature List Item Start -->
                             <div class="ferature-list-item wow fadeInUp" data-wow-delay="0.8s">
-                                <div class="icon-box">
+                                <!-- <div class="icon-box">
                                     <img src="images/icon-ferature-3.svg" alt="">
-                                </div>
+                                </div> -->
                                 <div class="ferature-list-content">
-                                    <h3>24/7 monitoring and support</h3>
-                                    <p>24/7 monitoring and support provides instant monitoring & response to cyber threats, ensuring your devices and data remain secure.</p>
+                                    <h3>⚙️ Customizable Solutions</h3>
+                                    <p>Flexible features tailored to meet your specific business needs.</p>
                                 </div>
                             </div>
                             <!-- Feature List Item End -->
+
+                            <!-- Feature List Item Start -->
+                            <div class="ferature-list-item wow fadeInUp" data-wow-delay="0.8s">
+                                <!-- <div class="icon-box">
+                                    <img src="images/icon-ferature-3.svg" alt="">
+                                </div> -->
+                                <div class="ferature-list-content">
+                                    <h3>📊 Performance Optimized</h3>
+                                    <p>Fast, efficient, and optimized for high performance.</p>
+                                </div>
+                            </div>
+                            <!-- Feature List Item End -->
+
+                            <!-- Feature List Item Start -->
+                            <div class="ferature-list-item wow fadeInUp" data-wow-delay="0.8s">
+                                <!-- <div class="icon-box">
+                                    <img src="images/icon-ferature-3.svg" alt="">
+                                </div> -->
+                                <div class="ferature-list-content">
+                                    <h3>📱 Responsive & User-Friendly</h3>
+                                    <p>Optimized for all devices with an intuitive user experience.</p>
+                                </div>
+                            </div>
+                            <!-- Feature List Item End -->
+
                         </div>
                         <!-- Feature List End -->
                     </div>
@@ -521,7 +616,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title dark-section">
                             <h3 class="wow fadeInUp">why choose us</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Reliable solutions for cybersecurity excellence</h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Reliable solutions for your business excellence</h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -533,8 +628,8 @@
                                     <img src="images/icon-why-choose-1.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>expertise and experience</h3>
-                                    <p>A team of seasoned cybersecurity professionals with extensive industry knowledge.</p>
+                                    <h3>Quality & Performance</h3>
+                                    <p>We focus on clean architecture, optimized performance, and long-term maintainability.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -545,8 +640,8 @@
                                     <img src="images/icon-why-choose-2.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>proactive security approach</h3>
-                                    <p>Focused on preventing threats before they impact your system, not just reacting after the fact.</p>
+                                    <h3>Reliable Support</h3>
+                                    <p>Our support team is always available to ensure smooth operations and continuous improvement.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -557,8 +652,8 @@
                                     <img src="images/icon-why-choose-3.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>tailored training programs</h3>
-                                    <p>Educating your team on security best practices to reduce human error and enhance vigilance.</p>
+                                    <h3>On-Time Delivery</h3>
+                                    <p>We follow structured processes to ensure projects are delivered on schedule without compromising quality.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -577,8 +672,8 @@
                                 <img src="images/icon-why-choose-counter-1.svg" alt="">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">25</span>+</h3>
-                                <p>Years Experience</p>
+                                <h3><span class="counter">15</span>+</h3>
+                                <p>Years of Experience</p>
                             </div>
                         </div>
                         <!-- Why Choose Counter Item End -->
@@ -589,8 +684,8 @@
                                 <img src="images/icon-why-choose-counter-2.svg" alt="">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">15</span>K</h3>
-                                <p>project complete</p>
+                                <h3><span class="counter">500</span>+</h3>
+                                <p>project completed</p>
                             </div>
                         </div>
                         <!-- Why Choose Counter Item End -->
@@ -601,8 +696,8 @@
                                 <img src="images/icon-why-choose-counter-3.svg" alt="">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">16</span>K</h3>
-                                <p>customer happy</p>
+                                <h3><span class="counter">120</span>+</h3>
+                                <p>Happy Client</p>
                             </div>
                         </div>
                         <!-- Why Choose Counter Item End -->
@@ -613,7 +708,7 @@
                                 <img src="images/icon-why-choose-counter-4.svg" alt="">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">120</span></h3>
+                                <h3><span class="counter">20</span>+</h3>
                                 <p>winning awards</p>
                             </div>
                         </div>
@@ -990,154 +1085,7 @@
     <!-- Our Testimonials Section End -->
 
     <!-- Our Team Section Start -->
-    <div class="our-team">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title dark-section">
-                        <h3 class="wow fadeInUp">Expert team</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our expert team member</h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-1.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>	
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">michael johnson</a></h3>
-                            <p>security officer</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-2.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>	
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">sophia carter</a></h3>
-                            <p>cybersecurity analyst</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-3.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>	
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">michael brown</a></h3>
-                            <p>incident response</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-4.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>	
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">isabella moore</a></h3>
-                            <p>security awareness</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php // require_once('team_section.php'); ?>
     <!-- Our Team Section End -->
 
     <!-- CTA Box Section Start -->
@@ -1210,7 +1158,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">faq</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Cybersecurity questions <span>answered clearly</span></h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">AI Chat bot questions <span>answered clearly</span></h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -1231,12 +1179,12 @@
                         <div class="accordion-item wow fadeInUp">
                             <h2 class="accordion-header" id="heading1">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                    What is cybersecurity?
+                                    How can a chatbot benefit my business?
                                 </button>
                             </h2>
                             <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
+                                    <p>Chatbots help reduce support workload, provide 24/7 customer service, increase lead generation, and improve overall customer satisfaction.</p>
                                 </div>
                             </div>
                         </div>
@@ -1246,12 +1194,12 @@
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                             <h2 class="accordion-header" id="heading2">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                    Why is cybersecurity important?
+                                    Can the chatbot be customized for my business?
                                 </button>
                             </h2>
                             <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
+                                    <p>Yes. Our chatbots are fully customizable to match your business needs, industry, tone, and branding.</p>
                                 </div>
                             </div>
                         </div>
@@ -1261,12 +1209,12 @@
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                             <h2 class="accordion-header" id="heading3">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                    What are the most common cyber threats?
+                                    Can the chatbot integrate with my existing systems?
                                 </button>
                             </h2>
                             <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
+                                    <p>Absolutely. Our chatbot can integrate with CRMs, websites, mobile apps, and third-party platforms such as WhatsApp, Facebook Messenger, and APIs.</p>
                                 </div>
                             </div>
                         </div>
@@ -1276,12 +1224,42 @@
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
                             <h2 class="accordion-header" id="heading4">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                    How can I protect my business from cyber threats?
+                                    Can the chatbot handle customer support requests?
                                 </button>
                             </h2>
                             <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
+                                    <p>Yes. The chatbot can handle FAQs, order tracking, appointment booking, and support ticket creation, with seamless handover to human agents when needed.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- FAQ Item End -->
+
+                        <!-- FAQ Item Start -->
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                            <h2 class="accordion-header" id="heading5">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                    How long does it take to deploy a chatbot?
+                                </button>
+                            </h2>
+                            <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Deployment time depends on requirements, but most chatbots can be launched within a few days to a few weeks.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- FAQ Item End -->
+
+                        <!-- FAQ Item Start -->
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                            <h2 class="accordion-header" id="heading6">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                    Is customer data secure?
+                                </button>
+                            </h2>
+                            <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Yes. We follow enterprise-grade security practices to ensure data privacy and protection.</p>
                                 </div>
                             </div>
                         </div>
