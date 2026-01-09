@@ -145,7 +145,7 @@
                             </div>
                         </div>
                         <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                            <p>An AI-powered chatbot service that provides instant, accurate responses and automates customer interactions across multiple channels. It helps businesses improve engagement, reduce support workload, and deliver 24/7 customer service.</p>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -168,7 +168,7 @@
                             </div>
                         </div>
                         <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                            <p>An AI-powered voice bot service that enables natural, human-like voice interactions to handle customer calls automatically. It improves call efficiency, reduces operational costs, and provides 24/7 voice support across multiple platforms.</p>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -191,7 +191,7 @@
                             </div>
                         </div>
                         <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                            <p>Comprehensive eCommerce solutions designed to build secure, scalable, and high-performance online stores. We help businesses streamline operations, enhance customer experience, and drive online sales growth.</p>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -214,7 +214,7 @@
                             </div>
                         </div>
                         <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                            <p>Modern POS solutions that enable fast, secure, and efficient sales transactions across physical and digital channels. Designed to simplify inventory management, billing, and real-time reporting for businesses of all sizes.</p>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -237,35 +237,12 @@
                             </div>
                         </div>
                         <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                            <p>Powerful CRM solutions designed to manage customer relationships, streamline sales processes, and improve customer engagement. Our CRM systems help businesses centralize data, increase productivity, and drive long-term growth.</p>
                         </div>
                     </div>
                     <!-- Service Item End -->
                 </div>
                 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item wow fadeInUp" data-wow-delay="1s">
-                        <div class="icon-box">
-                            <img src="images/icon-service-6.svg" alt="">
-                        </div>
-                        <div class="service-title-box">
-                            <div class="service-title">
-                                <h3><a href="service-single.html">Ticket Management</a></h3>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
-                        </div>
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-
                 <div class="col-lg-4 col-md-6">
                     <!-- Service Item Start -->
                     <div class="service-item wow fadeInUp" data-wow-delay="1s">
@@ -283,62 +260,17 @@
                             </div>
                         </div>
                         <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
+                            <p>Professional website development services that deliver fast, secure, and responsive websites tailored to your business needs. We create scalable, user-friendly solutions that enhance brand presence and drive engagement.</p>
                         </div>
                     </div>
                     <!-- Service Item End -->
                 </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item wow fadeInUp" data-wow-delay="1s">
-                        <div class="icon-box">
-                            <img src="images/icon-service-6.svg" alt="">
-                        </div>
-                        <div class="service-title-box">
-                            <div class="service-title">
-                                <h3><a href="service-single.html">Sales Inventory</a></h3>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
-                        </div>
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item wow fadeInUp" data-wow-delay="1s">
-                        <div class="icon-box">
-                            <img src="images/icon-service-6.svg" alt="">
-                        </div>
-                        <div class="service-title-box">
-                            <div class="service-title">
-                                <h3><a href="service-single.html">AI Prompt Service</a></h3>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html">
-                                    <i class="fa-solid fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="service-content">
-                            <p>Real-time monitoring and proactive and measures to identify and threats.</p>
-                        </div>
-                    </div>
-                    <!-- Service Item End -->
-                </div>
             </div>
         </div>
     </div>
     <!-- Our Services Section End -->
-
+   
     <!-- Our Feature Section Start -->
     <div class="our-feature">
         <div class="container">
@@ -991,15 +923,14 @@
                                             <div class="testimonial-item">
                                                 <div class="testimonial-header">
                                                     <div class="testimonial-company-logo">
-                                                        <img src="images/company-logo.svg" alt="">
+                                                        <!-- <img src="images/company-logo.svg" alt=""> -->
                                                     </div>        
                                                     <div class="testimonial-quote">
                                                         <img src="images/testimonial-quote.svg" alt="">
                                                     </div>
                                                 </div>                               
                                                 <div class="testimonial-content">
-                                                    <p>"This cybersecurity service has been a game-changer for my business. The Basic Plan keeps my data secure, and I no longer worry about online threats. The setup was simple, and the team provided excellent support. Highly recommend!"</p>
-                                                    <p>"I love how easy it is to use this service. It's affordable and gives me the confidence to work online without fear of breaches. A must-have for anyone who values their online safety!"</p>
+                                                    <p>“We received a high-quality software solution that met our business requirements perfectly. The team demonstrated strong technical expertise, professionalism, and timely delivery throughout the project.”</p>
                                                 </div>
                                                 <div class="testimonial-body">
                                                     <div class="author-image">
@@ -1008,8 +939,8 @@
                                                         </figure>
                                                     </div>
                                                     <div class="author-content">
-                                                        <h3>Alex J.</h3>
-                                                        <p>IT manager</p>
+                                                        <h3>— Michael Thompson</h3>
+                                                        <p>Chief Technology Officer</p>
                                                     </div>   
                                                 </div>                                    
                                             </div>
@@ -1021,15 +952,14 @@
                                             <div class="testimonial-item">
                                                 <div class="testimonial-header">
                                                     <div class="testimonial-company-logo">
-                                                        <img src="images/company-logo.svg" alt="">
+                                                        <!-- <img src="images/company-logo.svg" alt=""> -->
                                                     </div>        
                                                     <div class="testimonial-quote">
                                                         <img src="images/testimonial-quote.svg" alt="">
                                                     </div>
                                                 </div>                               
                                                 <div class="testimonial-content">
-                                                    <p>"This cybersecurity service has been a game-changer for my business. The Basic Plan keeps my data secure, and I no longer worry about online threats. The setup was simple, and the team provided excellent support. Highly recommend!"</p>
-                                                    <p>"I love how easy it is to use this service. It's affordable and gives me the confidence to work online without fear of breaches. A must-have for anyone who values their online safety!"</p>
+                                                    <p>“Their IT services significantly improved our system efficiency and operational performance. Clear communication and structured project management made the collaboration seamless.”</p>
                                                 </div>
                                                 <div class="testimonial-body">
                                                     <div class="author-image">
@@ -1038,13 +968,101 @@
                                                         </figure>
                                                     </div>
                                                     <div class="author-content">
-                                                        <h3>Sarah Mitchell</h3>
-                                                        <p>Cloud manager</p>
+                                                        <h3>— Sarah Williams</h3>
+                                                        <p>Head of Operations</p>
                                                     </div>   
                                                 </div>                                    
                                             </div>
                                         </div>
                                         <!-- Testimonial Slide End -->
+
+                                        <!-- Testimonial Slide Start -->
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-item">
+                                                <div class="testimonial-header">
+                                                    <div class="testimonial-company-logo">
+                                                        <!-- <img src="images/company-logo.svg" alt=""> -->
+                                                    </div>        
+                                                    <div class="testimonial-quote">
+                                                        <img src="images/testimonial-quote.svg" alt="">
+                                                    </div>
+                                                </div>                               
+                                                <div class="testimonial-content">
+                                                    <p>“They delivered a secure, scalable platform aligned with our long-term growth strategy. Their technical knowledge and support exceeded our expectations.”</p>
+                                                </div>
+                                                <div class="testimonial-body">
+                                                    <div class="author-image">
+                                                        <figure class="image-anime">
+                                                            <img src="images/client-image-1.jpg" alt="">
+                                                        </figure>
+                                                    </div>
+                                                    <div class="author-content">
+                                                        <h3>— Daniel Roberts</h3>
+                                                        <p>Director of Information Systems</p>
+                                                    </div>   
+                                                </div>                                    
+                                            </div>
+                                        </div>
+                                        <!-- Testimonial Slide End -->
+
+                                        <!-- Testimonial Slide Start -->
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-item">
+                                                <div class="testimonial-header">
+                                                    <div class="testimonial-company-logo">
+                                                        <!-- <img src="images/company-logo.svg" alt=""> -->
+                                                    </div>        
+                                                    <div class="testimonial-quote">
+                                                        <img src="images/testimonial-quote.svg" alt="">
+                                                    </div>
+                                                </div>                               
+                                                <div class="testimonial-content">
+                                                    <p>“A reliable technology partner with a deep understanding of enterprise software development. We value their commitment to quality and ongoing support.”</p>
+                                                </div>
+                                                <div class="testimonial-body">
+                                                    <div class="author-image">
+                                                        <figure class="image-anime">
+                                                            <img src="images/client-image-2.jpg" alt="">
+                                                        </figure>
+                                                    </div>
+                                                    <div class="author-content">
+                                                        <h3>— Emily Carter</h3>
+                                                        <p>Managing Director</p>
+                                                    </div>   
+                                                </div>                                    
+                                            </div>
+                                        </div>
+                                        <!-- Testimonial Slide End -->
+
+                                        <!-- Testimonial Slide Start -->
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-item">
+                                                <div class="testimonial-header">
+                                                    <div class="testimonial-company-logo">
+                                                        <!-- <img src="images/company-logo.svg" alt=""> -->
+                                                    </div>        
+                                                    <div class="testimonial-quote">
+                                                        <img src="images/testimonial-quote.svg" alt="">
+                                                    </div>
+                                                </div>                               
+                                                <div class="testimonial-content">
+                                                    <p>“Their professional approach and attention to detail ensured a successful project outcome. We highly recommend their IT and software services.”</p>
+                                                </div>
+                                                <div class="testimonial-body">
+                                                    <div class="author-image">
+                                                        <figure class="image-anime">
+                                                            <img src="images/client-image-3.jpg" alt="">
+                                                        </figure>
+                                                    </div>
+                                                    <div class="author-content">
+                                                        <h3>— Jonathan Lee</h3>
+                                                        <p>Chief Executive Officer</p>
+                                                    </div>   
+                                                </div>                                    
+                                            </div>
+                                        </div>
+                                        <!-- Testimonial Slide End -->
+
                                     </div>
                                     <div class="testimonial-btn">
                                         <div class="testimonial-button-prev"></div>
@@ -1165,7 +1183,7 @@
                         <!-- Faqs Image Start -->
                         <div class="faq-image">
                             <figure class="image-anime reveal">
-                                <img src="images/faq-image.jpg" alt="">
+                                <img src="images/chat-app-xperteck.jpg" alt="">
                             </figure>
                         </div>
                         <!-- Faqs Image End -->
