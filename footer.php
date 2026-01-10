@@ -7,7 +7,7 @@
                     <div class="footer-header">
                         <!-- Footer Logo Start -->
                         <div class="footer-logo">
-                            <img src="images/footer-logo.svg" alt="">
+                            <img src="images/xperteck-logo-new.jpeg" alt="">
                         </div>
                         <!-- Footer Logo End -->
                         

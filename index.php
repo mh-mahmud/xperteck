@@ -281,7 +281,7 @@
                         <!-- Feature Image Start -->
                         <div class="feature-image">
                             <figure class="image-anime reveal">
-                                <img src="images/feature-image-1.jpg" alt="">
+                                <img src="images/why-chose-us.avif" alt="">
                             </figure>
                         </div>
                         <!-- Feature Image End -->
@@ -291,7 +291,7 @@
                             <!-- Feature Image Start -->
                             <div class="feature-image">
                                 <figure class="image-anime reveal">
-                                    <img src="images/feature-image-2.jpg" alt="">
+                                    <img src="images/feature-image-1.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Feature Image End -->
@@ -300,42 +300,35 @@
                             <div class="company-experience-box">
                                 <!-- Company Experience Content Start -->
                                 <div class="company-experience-content">
-                                    <h2><span class="counter">25</span>+</h2>
-                                    <p>Years of experience in cyber security</p>
+                                    <h2><span class="counter">15</span>+</h2>
+                                    <p>Years of experience in IT industry</p>
                                 </div>
                                 <!-- Company Experience Content End -->
 
                                 <!-- Company Client Image Start -->
                                 <div class="our-client-images company-client-images">
-                                    <!-- Client Image Start -->
-                                    <div class="client-image">
+
+                                    <!-- <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="images/client-image-1.jpg" alt="">
                                         </figure>
                                     </div>
-                                    <!-- Client Image End -->
 
-                                    <!-- Client Image Start -->
                                     <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="images/client-image-2.jpg" alt="">
                                         </figure>
                                     </div>
-                                    <!-- Client Image End -->
 
-                                    <!-- Client Image Start -->
                                     <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="images/client-image-3.jpg" alt="">
                                         </figure>
+                                    </div> -->
+                                    <div class=" client-counter">
+                                        <h3 style="font-size:15px;"><span class="counter">120</span>+ clients</h3>
                                     </div>
-                                    <!-- Client Image End -->
 
-                                    <!-- Add More Client Image Start -->
-                                    <div class="client-image client-counter">
-                                        <h3><span class="counter">25</span>k</h3>
-                                    </div>
-                                    <!-- Add More Client Image End -->
                                 </div>
                                 <!-- Company Client Image End -->
                             </div>
@@ -437,7 +430,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">our project</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Showcasing our cybersecurity <span>latest projects</span></h2>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Showcasing our <span>client projects</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -452,15 +445,15 @@
                             <!-- Project Item Start -->
                             <div class="project-item">
                                 <div class="project-image">
-                                    <a href="project-single.html" data-cursor-text="View">
+                                    <a target="_blank" href="https://uftcl.com/" data-cursor-text="View">
                                         <figure class="image-anime">
-                                            <img src="images/project-1.jpg" alt="">
+                                            <img src="images/projects/gallery-image-1.jpg" alt="">
                                         </figure>
                                     </a>
                                 </div>
                                 <div class="project-content">
-                                    <p><a href="project-single.html">Authentication</a></p>
-                                    <h3><a href="project-single.html">IoT Security Enhancement for Smart Devices</a></h3>
+                                    <p><a target="_blank" href="https://uftcl.com/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://uftcl.com/">UFTCL - Start Trading</a></h3>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -468,15 +461,15 @@
                             <!-- Project Item Start -->
                             <div class="project-item active">
                                 <div class="project-image">
-                                    <a href="project-single.html" data-cursor-text="View">
+                                    <a target="_blank" href="https://appcashweb.com/" data-cursor-text="View">
                                         <figure class="image-anime">
-                                            <img src="images/project-2.jpg" alt="">
+                                            <img src="images/projects/gallery-image-2.jpg" alt="">
                                         </figure>
                                     </a>
                                 </div>
                                 <div class="project-content">
-                                    <p><a href="project-single.html">Authentication</a></p>
-                                    <h3><a href="project-single.html">IoT Security Enhancement for Smart Devices</a></h3>
+                                    <p><a target="_blank" href="https://appcashweb.com/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://appcashweb.com/">App Cash - Get FREE Gift Cards</a></h3>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -484,15 +477,15 @@
                             <!-- Project Item Start -->
                             <div class="project-item">
                                 <div class="project-image">
-                                    <a href="project-single.html" data-cursor-text="View">
+                                    <a target="_blank" href="https://jojo.mx/" data-cursor-text="View">
                                         <figure class="image-anime">
-                                            <img src="images/project-3.jpg" alt="">
+                                            <img src="images/projects/gallery-image-3.jpg" alt="">
                                         </figure>
                                     </a>
                                 </div>
                                 <div class="project-content">
-                                    <p><a href="project-single.html">Authentication</a></p>
-                                    <h3><a href="project-single.html">IoT Security Enhancement for Smart Devices</a></h3>
+                                    <p><a target="_blank" href="https://jojo.mx/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://jojo.mx/">JoJo MX - Jojo Media</a></h3>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -500,15 +493,81 @@
                             <!-- Project Item Start -->
                             <div class="project-item">
                                 <div class="project-image">
-                                    <a href="project-single.html" data-cursor-text="View">
+                                    <a target="_blank" href="https://www.dutchliving.com/" data-cursor-text="View">
                                         <figure class="image-anime">
-                                            <img src="images/project-4.jpg" alt="">
+                                            <img src="images/projects/gallery-image-4.jpg" alt="">
                                         </figure>
                                     </a>
                                 </div>
                                 <div class="project-content">
-                                    <p><a href="project-single.html">Authentication</a></p>
-                                    <h3><a href="project-single.html">IoT Security Enhancement for Smart Devices</a></h3>
+                                    <p><a target="_blank" href="https://www.dutchliving.com/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://www.dutchliving.com/">Dutch Living | Styles</a></h3>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+                        </div>
+
+                        <div style="margin-top:30px;border:1px solid #ddd;" class="projects-list wow fadeInUp" data-wow-delay="0.4s">
+                            <!-- Project Item Start -->
+                            <div class="project-item">
+                                <div class="project-image">
+                                    <a target="_blank" href="https://www.dutchliving.com/" data-cursor-text="View">
+                                        <figure class="image-anime">
+                                            <img src="images/projects/gallery-image-5.jpg" alt="">
+                                        </figure>
+                                    </a>
+                                </div>
+                                <div class="project-content">
+                                    <p><a target="_blank" href="https://www.dutchliving.com/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://www.dutchliving.com/">Dutch Living | Styles</a></h3>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+
+                            <!-- Project Item Start -->
+                            <div class="project-item">
+                                <div class="project-image">
+                                    <a target="_blank" href="https://www.gohandsfree.net/" data-cursor-text="View">
+                                        <figure class="image-anime">
+                                            <img src="images/projects/gallery-image-6.jpg" alt="">
+                                        </figure>
+                                    </a>
+                                </div>
+                                <div class="project-content">
+                                    <p><a target="_blank" href="https://www.gohandsfree.net/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://www.gohandsfree.net/">Go Hands Free</a></h3>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+
+                            <!-- Project Item Start -->
+                            <div class="project-item">
+                                <div class="project-image">
+                                    <a target="_blank" href="https://stealthaccountants.com.au/" data-cursor-text="View">
+                                        <figure class="image-anime">
+                                            <img src="images/projects/gallery-image-7.jpg" alt="">
+                                        </figure>
+                                    </a>
+                                </div>
+                                <div class="project-content">
+                                    <p><a target="_blank" href="https://stealthaccountants.com.au/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://stealthaccountants.com.au/">Stealth Accountants</a></h3>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+
+                            <!-- Project Item Start -->
+                            <div class="project-item">
+                                <div class="project-image">
+                                    <a target="_blank" href="https://www.mydorpon.com/" data-cursor-text="View">
+                                        <figure class="image-anime">
+                                            <img src="images/projects/gallery-image-9.jpg" alt="">
+                                        </figure>
+                                    </a>
+                                </div>
+                                <div class="project-content">
+                                    <p><a target="_blank" href="https://www.mydorpon.com/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://www.mydorpon.com/">My Dorpon - Grameen Products</a></h3>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -516,9 +575,9 @@
                         <!-- Projects List End -->
                         
                         <!-- Section Footer Text Start -->
-                        <div class="section-footer-text wow fadeInUp" data-wow-delay="0.6s">
-                            <p>Cybersecurity Innovations Explore All Our Projects Safeguarding Digital Futures Against Evolving Threats. <a href="projects.html">all project</a></p>
-                        </div>
+                        <!-- <div class="section-footer-text wow fadeInUp" data-wow-delay="0.6s">
+                            <p>Cybersecurity Innovations Explore All Our Projects Safeguarding Digital Futures Against Evolving Threats. <a target="_blank" href="projects.html">all project</a></p>
+                        </div> -->
                         <!-- Section Footer Text End -->
                     </div>
                     <!-- Our Projects Box End -->
@@ -536,7 +595,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="images/why-choose-image.jpg" alt="">
+                            <img src="images/why-chose-us.webp" alt="">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -654,237 +713,11 @@
     <!-- Why Choose Us Section End -->
 
     <!-- Our Security Section Start -->
-    <div class="our-security">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <!-- Our Security Content Start -->
-                    <div class="our-security-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">Our security</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Securing your digital <span>world together</span></h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- Security Content Box Start -->
-                        <div class="security-content-box">
-                            <!-- Security Content Item Start -->
-                            <div class="security-content-item wow fadeInUp" data-wow-delay="0.4s">
-                                <h3>real-time threat monitoring:</h3>
-                                <p>Real-Time Threat Monitoring continuously analyzes network traffic, user behavior, and system activity to detect and respond to potential potentials security threats threats as they occur.</p>
-                            </div>
-                            <!-- Security Content Item End -->
-                            
-                            <!-- Security Content Item Start -->
-                            <div class="security-content-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h3>compliance and risk management:</h3>
-                                <p>compliance & risk management continuously analyzes network traffic, user behavior, and system activity to detect and respond to potential potentials security threats threats as they occur.</p>
-                            </div>
-                            <!-- Security Content Item End -->
-                        </div>
-                        <!-- Security Content Box End -->
-                    </div>
-                    <!-- Our Security Content End -->
-                </div>
-                
-                <div class="col-lg-6">
-                    <!-- Our Security Image Content Start -->
-                    <div class="our-security-image-content">
-                        <!-- Security Image Start -->
-                        <div class="security-image order-lg-1 order-2">
-                            <figure class="image-anime reveal">
-                                <img src="images/our-security-image.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Security Image End -->
-
-                        <!-- Security Content Item Start -->
-                        <div class="security-content-item order-lg-2 order-1 wow fadeInUp">
-                            <h3>identity and access management:</h3>
-                            <p>identity and access management continuously analyzes network traffic, user behavior, and system activity to detect and respond to potential potentials security threats threats as they occur.</p>
-                        </div>
-                        <!-- Security Content Item End -->
-                    </div>
-                    <!-- Our Security Image Content End -->
-                </div>
-                <div class="col-lg-12">
-                    <!-- Security List Start -->
-                    <div class="security-list">
-                        <!-- Security List Item Start -->
-                        <div class="security-list-item wow fadeInUp">
-                            <h3>Computer security</h3>
-                            <p>Protecting systems and data from unauthorized access, cyber threats digital vulnerabilities.</p>
-                        </div>
-                        <!-- Security List Item End -->
-                        
-                        <!-- Security List Item Start -->
-                        <div class="security-list-item wow fadeInUp" data-wow-delay="0.2s">
-                            <h3>File d  uplication & access</h3>
-                            <p>Protecting systems and data from unauthorized access, cyber threats digital vulnerabilities.</p>
-                        </div>
-                        <!-- Security List Item End -->
-                        
-                        <!-- Security List Item Start -->
-                        <div class="security-list-item wow fadeInUp" data-wow-delay="0.4s">
-                            <h3>Network protections</h3>
-                            <p>Protecting systems and data from unauthorized access, cyber threats digital vulnerabilities.</p>
-                        </div>
-                        <!-- Security List Item End -->
-                    </div>
-                    <!-- Security List End -->
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php # require_once("our_security.php"); ?>
     <!-- Our Security Section End -->
 
     <!-- Our Pricing Section Start -->
-    <div class="our-pricing">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h3 class="wow fadeInUp">pricing plan</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Affordable cyber security <span>plans for every need</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Pricing Box Start -->
-                    <div class="pricing-item wow fadeInUp">
-                        <!-- Pricing Header Start -->
-                        <div class="pricing-header">
-                            <h3>Basic plan</h3>
-                            <h2><sup>$</sup>29<sub>/per month</sub></h2>
-                            <p>Essential protection for digital safety.</p>
-
-                            <div class="icon-box">
-                                <img src="images/icon-pricing-1.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- Pricing Header End -->
-
-                        <!-- Pricing Body Start -->
-                        <div class="pricing-body">
-                            <!-- Pricing List Start -->
-                            <div class="pricing-list">
-                                <ul>
-                                    <li>Anti-virus protection service</li>
-                                    <li>Reliable personal data protection</li>
-                                    <li>Advertisements blocking</li>
-                                    <li>1 device using</li>
-                                </ul>
-                            </div>
-                            <!-- Pricing List End -->
-    
-                            <!-- Pricing Button Start -->
-                            <div class="pricing-btn">
-                                <a href="#" class="btn-default">get started</a>
-                            </div>
-                            <!-- Pricing Button End -->
-                        </div>
-                        <!-- Pricing Body End -->
-                    </div>
-                    <!-- Pricing Box End -->
-                </div>
-                
-                <div class="col-lg-4 col-md-6">
-                    <!-- Pricing Box Start -->
-                    <div class="pricing-item highlighted-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Pricing Header Start -->
-                        <div class="pricing-header">
-                            <h3>Standard plan</h3>
-                            <h2><sup>$</sup>39<sub>/per month</sub></h2>
-                            <p>Essential protection for digital safety.</p>
-
-                            <div class="icon-box">
-                                <img src="images/icon-pricing-2.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- Pricing Header End -->
-
-                        <!-- Pricing Body Start -->
-                        <div class="pricing-body">
-                            <!-- Pricing List Start -->
-                            <div class="pricing-list">
-                                <ul>
-                                    <li>Anti-virus protection service</li>
-                                    <li>Reliable personal data protection</li>
-                                    <li>Advertisements blocking</li>
-                                    <li>1 device using</li>
-                                </ul>
-                            </div>
-                            <!-- Pricing List End -->
-    
-                            <!-- Pricing Button Start -->
-                            <div class="pricing-btn">
-                                <a href="#" class="btn-default btn-highlighted">get started</a>
-                            </div>
-                            <!-- Pricing Button End -->
-                        </div>
-                        <!-- Pricing Body End -->
-                    </div>
-                    <!-- Pricing Box End -->
-                </div>
-                
-                <div class="col-lg-4 col-md-6">
-                    <!-- Pricing Box Start -->
-                    <div class="pricing-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Pricing Header Start -->
-                        <div class="pricing-header">
-                            <h3>Premium plan</h3>
-                            <h2><sup>$</sup>49<sub>/per month</sub></h2>
-                            <p>Essential protection for digital safety.</p>
-
-                            <div class="icon-box">
-                                <img src="images/icon-pricing-3.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- Pricing Header End -->
-
-                        <!-- Pricing Body Start -->
-                        <div class="pricing-body">
-                            <!-- Pricing List Start -->
-                            <div class="pricing-list">
-                                <ul>
-                                    <li>Anti-virus protection service</li>
-                                    <li>Reliable personal data protection</li>
-                                    <li>Advertisements blocking</li>
-                                    <li>1 device using</li>
-                                </ul>
-                            </div>
-                            <!-- Pricing List End -->
-    
-                            <!-- Pricing Button Start -->
-                            <div class="pricing-btn">
-                                <a href="#" class="btn-default">get started</a>
-                            </div>
-                            <!-- Pricing Button End -->
-                        </div>
-                        <!-- Pricing Body End -->
-                    </div>
-                    <!-- Pricing Box End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Pricing Benifit List Start -->
-                    <div class="pricing-benefit-list wow fadeInUp" data-wow-delay="0.6s">
-                        <ul>
-                            <li><img src="images/icon-pricing-benefit-1.svg" alt="">Get 30 day free trial</li>
-                            <li><img src="images/icon-pricing-benefit-2.svg" alt="">No any hidden fees pay</li>
-                            <li><img src="images/icon-pricing-benefit-3.svg" alt="">You can  cancel anytime </li>
-                        </ul>
-                    </div>
-                    <!-- Pricing Benifit List End -->
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php # require_once("pricing.php"); ?>
     <!-- Our Pricing Section End -->
 
     <!-- Our Testimonials Section Start -->
@@ -1103,7 +936,7 @@
     <!-- Our Testimonials Section End -->
 
     <!-- Our Team Section Start -->
-    <?php // require_once('team_section.php'); ?>
+    <?php # require_once('team_section.php'); ?>
     <!-- Our Team Section End -->
 
     <!-- CTA Box Section Start -->
@@ -1291,118 +1124,7 @@
     <!-- Our Faqs Section End -->
 
     <!-- our Blog Section Start -->
-    <div class="our-blog">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h3 class="wow fadeInUp">latest post</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our latest <span>insight blog</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp">
-                        <!-- Post Featured Image Start-->
-                        <div class="post-featured-image">
-                            <a href="blog-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/post-1.jpg" alt="">
-                                </figure>
-                            </a>
-                        </div>
-                        <!-- Post Featured Image End -->
-
-                        <!-- post Item Content Start -->
-                        <div class="post-item-content">
-                            <!-- post Item Body Start -->
-                            <div class="post-item-body">
-                                <h2><a href="blog-single.html">The Linux Threat You Need to Know</a></h2>
-                            </div>
-                            <!-- Post Item Body End-->
-
-                            <!-- Post Item Button Start-->
-                            <div class="post-item-btn">
-                                <a href="blog-single.html" class="post-btn"><i class="fa-solid fa-arrow-right"></i></a>
-                            </div>
-                            <!-- Post Item Button End-->
-                        </div>
-                        <!-- post Item Content End -->
-                    </div>
-                    <!-- Post Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Post Featured Image Start-->
-                        <div class="post-featured-image">
-                            <a href="blog-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/post-2.jpg" alt="">
-                                </figure>
-                            </a>
-                        </div>
-                        <!-- Post Featured Image End -->
-
-                        <!-- post Item Content Start -->
-                        <div class="post-item-content">
-                            <!-- post Item Body Start -->
-                            <div class="post-item-body">
-                                <h2><a href="blog-single.html">Closing Security Gaps with Innovation</a></h2>
-                            </div>
-                            <!-- Post Item Body End-->
-
-                            <!-- Post Item Button Start-->
-                            <div class="post-item-btn">
-                                <a href="blog-single.html" class="post-btn"><i class="fa-solid fa-arrow-right"></i></a>
-                            </div>
-                            <!-- Post Item Button End-->
-                        </div>
-                        <!-- post Item Content End -->
-                    </div>
-                    <!-- Post Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Post Featured Image Start-->
-                        <div class="post-featured-image">
-                            <a href="blog-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/post-3.jpg" alt="">
-                                </figure>
-                            </a>
-                        </div>
-                        <!-- Post Featured Image End -->
-
-                        <!-- post Item Content Start -->
-                        <div class="post-item-content">
-                            <!-- post Item Body Start -->
-                            <div class="post-item-body">
-                                <h2><a href="blog-single.html">BianLian Focuses on Data Extortion</a></h2>
-                            </div>
-                            <!-- Post Item Body End-->
-
-                            <!-- Post Item Button Start-->
-                            <div class="post-item-btn">
-                                <a href="blog-single.html" class="post-btn"><i class="fa-solid fa-arrow-right"></i></a>
-                            </div>
-                            <!-- Post Item Button End-->
-                        </div>
-                        <!-- post Item Content End -->
-                    </div>
-                    <!-- Post Item End -->
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php # require_once("blog.php"); ?>
     <!-- our Blog Section End -->
 
     <?php require_once("footer.php"); ?>
