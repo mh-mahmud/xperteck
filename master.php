@@ -68,17 +68,21 @@
 					<div class="collapse navbar-collapse main-menu">
                         <div class="nav-menu-wrapper">
                             <ul class="navbar-nav mr-auto" id="menu">
-                                <li class="nav-item submenu"><a class="nav-link" href="./">Home</a>
+                                <!-- <li class="nav-item submenu"><a class="nav-link" href="./">Home</a>
                                     <ul>
                                         <li class="nav-item"><a class="nav-link" href="index.html">Home - Image</a></li>
                                         <li class="nav-item"><a class="nav-link" href="index-video.html">Home - Video</a></li>
                                         <li class="nav-item"><a class="nav-link" href="index-slider.html">Home - Slider</a></li>
                                     </ul>
-                                </li>                                
+                                </li> -->
+                                <li class="nav-item"><a class="nav-link" href="./">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about.html">About Us</a>
                                 <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                                <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
+                                <!-- <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li> -->
+                                <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
+
+                                <!-- <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
                                     <ul>                                        
                                         <li class="nav-item"><a class="nav-link" href="service-single.html">Service Details</a></li>
                                         <li class="nav-item"><a class="nav-link" href="blog-single.html">Blog Details</a></li>
@@ -93,7 +97,7 @@
                                         <li class="nav-item"><a class="nav-link" href="faqs.html">FAQs</a></li>
                                         <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>                         
                             </ul>
                         </div>
