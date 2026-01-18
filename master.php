@@ -76,11 +76,12 @@
                                     </ul>
                                 </li> -->
                                 <li class="nav-item"><a class="nav-link" href="./">Home</a></li>
-                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a>
-                                <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                                <li class="nav-item"><a class="nav-link" href="about.php">About Us</a>
+                                <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
                                 <!-- <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li> -->
                                 <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
+                                <!-- <li class="nav-item"><a class="nav-link" href="#">Products</a></li> -->
+                                <li class="nav-item"><a class="nav-link" href="testimonials.php">Feedback</a></li>
 
                                 <!-- <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
                                     <ul>                                        

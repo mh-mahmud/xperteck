@@ -40,7 +40,7 @@
                     <!-- Footer Newsletter Form End -->
                 </div>
 
-                <div class="col-lg-2 col-md-3 col-6">
+                <div class="col-lg-3 col-md-4 col-6">
                     <!-- Footer Links Start -->
                     <div class="footer-links footer-quick-links">
                         <h3>Quick link</h3>
@@ -54,21 +54,7 @@
                     <!-- Footer Links End -->
                 </div>
                 
-                <div class="col-lg-2 col-md-3 col-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Services</h3>
-                        <ul>
-                            <li><a href="service-single.html">Threat detection</a></li>
-                            <li><a href="service-single.html">Endpoint security</a></li>
-                            <li><a href="service-single.html">Network defense</a></li>
-                            <li><a href="service-single.html">Data encryption</a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-                
-                <div class="col-lg-2 col-md-3 col-6">
+                <div class="col-lg-3 col-md-4 col-6">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Support</h3>
@@ -88,8 +74,8 @@
                         <h3>Contact</h3>
                         <ul>
                             <li><a href="tel:+123456789">+123 456 789</a></li>
-                            <li><a href="mailto:info@domain.com">info@domain.com</a></li>
-                            <li>123 High Street LN1 1AB United Kingdom</li>
+                            <li><a href="mailto:info@xperteck.com">info@xperteck.com</a></li>
+                            <li>123 High Street LN1 1AB United States</li>
                         </ul>
                     </div>
                     <!-- Footer Links End -->
@@ -104,7 +90,7 @@
                     <div class="col-md-12">
                         <!-- Footer Copyright Text Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2025 All Rights Reserved.</p>
+                            <p>Copyright © 2026 All Rights Reserved.</p>
                         </div>
                         <!-- Footer Copyright Text End -->
                     </div>

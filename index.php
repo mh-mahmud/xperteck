@@ -511,15 +511,15 @@
                             <!-- Project Item Start -->
                             <div class="project-item">
                                 <div class="project-image">
-                                    <a target="_blank" href="https://www.dutchliving.com/" data-cursor-text="View">
+                                    <a target="_blank" href="https://born2trading.com/" data-cursor-text="View">
                                         <figure class="image-anime">
                                             <img src="images/projects/gallery-image-5.jpg" alt="">
                                         </figure>
                                     </a>
                                 </div>
                                 <div class="project-content">
-                                    <p><a target="_blank" href="https://www.dutchliving.com/">Go To Link</a></p>
-                                    <h3><a target="_blank" href="https://www.dutchliving.com/">Dutch Living | Styles</a></h3>
+                                    <p><a target="_blank" href="https://born2trading.com/">Go To Link</a></p>
+                                    <h3><a target="_blank" href="https://born2trading.com/">BORN2TRADING</a></h3>
                                 </div>
                             </div>
                             <!-- Project Item End -->
